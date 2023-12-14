@@ -1,9 +1,22 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20Eugene's%20Github%20😛&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=f64a8a&text=Welcome%20to%20Eugene's%20Github%20😛&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
 
   <br/>
   <br/>
+
+
+### 🐱 Introduce 🐱
+
+  <br/>
+
+  Data Lover 📊 Friendly 🤝 Hardworking 👩🏻‍💻
+
+
+  <br/>
+  <br/>
+
 
 ### 📞 Contact 📞
 
@@ -19,7 +32,6 @@
 
 
 
-  <br/>
   <br/>
   <br/>
 
@@ -45,7 +57,6 @@
   
 
 
-  <br/>
   <br/>
   <br/>
 
