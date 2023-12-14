@@ -25,7 +25,7 @@
 
 
   
-### 🔨 Skill Stacks 🔨
+### 🔨 Stacks 🔨
   
   <br/>
   
