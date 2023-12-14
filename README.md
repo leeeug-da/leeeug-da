@@ -1,8 +1,7 @@
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=venom&color=f64a8a&text=Welcome%20to%20Eugene's%20Github%20😛&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-
-
+  
   <br/>
   <br/>
 
@@ -30,8 +29,9 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
   </a>
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508leeeug-da%2Fhit-counter&count_bg=%23FF288C&title_bg=%237F7F7F&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+  
   <br/>
   <br/>
 
@@ -71,10 +71,13 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   
   
-  
-  
+  <br/>  
+  <br/>
 
 
-  
+
+
+
 </div>
+  
 
