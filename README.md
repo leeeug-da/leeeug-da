@@ -10,7 +10,7 @@
 
   <br/>
 
-  Data Lover 📊 Friendly 🤝 Hardworking 👩🏻‍💻
+   📊 Friendly 🤝 Hardworking 👩🏻‍💻
 
 
   <br/>
