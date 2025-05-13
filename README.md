@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
   </a>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeeug-da%2Fhit-counter&count_bg=%23FF288C&title_bg=%237F7F7F&icon=waze.svg&icon_color=%23E7E7E7&title=hi+there&edge_flat=false)](https://hits.seeyoufarm.com)
-
   
   <br/>
   <br/>
